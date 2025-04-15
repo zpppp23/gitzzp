@@ -12,15 +12,17 @@ P(y|X) \propto P(y) \prod_{i=1}^n P(x_i|y)
 ```
 ### 贝叶斯定理应用公式
 先验概率计算：
+```math
 P(y=c) = \frac{N_c + \alpha}{N + \alpha \times C}
-
+```
 N_c：类别c的样本数
 
 α：拉普拉斯平滑系数
 
 条件概率计算：
+```math
 P(x_i|y=c) = \frac{N_{x_i,c} + \alpha}{N_c + \alpha \times V}
-
+```
 V：特征词表大小
 - **贝叶斯定理应用**：
 

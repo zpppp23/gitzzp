@@ -5,7 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1166c6d-f5a2-4413-b6e4-1c05a3c4145d" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/../word2vec/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../word2vec/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../word2vec/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../word2vec/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../word2vec/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../word2vec/.idea/word2vec.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../word2vec/.ipynb_checkpoints/Continuous-Bag-of-Word-CBOW-checkpoint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../word2vec/.ipynb_checkpoints/word2vec_gensim-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../word2vec/Continuous-Bag-of-Word-CBOW.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../word2vec/frankenstein_with_splits.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../word2vec/word2vec_gensim.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../word_segmentation/.idea/word_segmentation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../word_segmentation/.idea/word_segmentation.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../word_segmentation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../word_segmentation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../word_segmentation/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../word_segmentation/classify.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../word_segmentation/classify2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
